@@ -4114,3 +4114,79 @@ Contribution: 2026-11-02 20:03
 
 Contribution: 2026-11-02 20:04
 
+\# GitHub Activity Generator – Demo
+
+
+
+\## Project Overview
+
+This project demonstrates how Git commit activity can be generated programmatically using Python and Git.
+
+
+
+It was created for learning and experimenting with Git commands, repository management, commit history, and GitHub integration.
+
+
+
+\## Features
+
+\- Generates sample Git repositories.
+
+\- Creates automated commits for testing.
+
+\- Allows configuration of the generation period.
+
+\- Supports configurable commit frequency.
+
+\- Demonstrates Git repository initialization and version control.
+
+\- Helps understand Git commit history and repository workflows.
+
+
+
+\## Technologies Used
+
+\- Python
+
+\- Git
+
+\- GitHub
+
+\- PowerShell
+
+
+
+\## How to Run
+
+1\. Clone or download the project.
+
+2\. Open the project folder in PowerShell.
+
+3\. Install the required dependencies, if any.
+
+4\. Run the generator using the command:
+
+
+
+```bash
+
+python contribute.py --help
+
+```
+
+
+
+5\. Configure the available options and run the generator.
+
+
+
+\## Important Note
+
+This repository is an educational demonstration. Generated commits are simulated and should not be represented as genuine historical project contributions.
+
+
+
+\## Author
+
+Sadiya Nadaf
+
